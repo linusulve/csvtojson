@@ -1,0 +1,6 @@
+module.readme
+
+npm init -y
+npm install csvtojson 
+npm install json2csv 
+--save 
